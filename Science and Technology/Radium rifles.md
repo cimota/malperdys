@@ -1,0 +1,11 @@
+---
+title: Radium Rifles
+creation date: 2025-03-05 10:50
+modification date: Wednesday 5th March 2025 11:10:00
+tags:
+aliases:
+  - Radium guns
+---
+Radium rifles are the primary ranged weapons of [[Barsoom]], feared for their devastating firepower and deadly precision. These sleek, lightweight firearms resemble the rifles of [[Earth]] in shape, but their function is far more advanced, utilizing highly refined radium projectiles encased in small glass or metal cartridges. When fired, the radium bullet moves silently through the thin Martian air, striking its target with the force of a conventional firearm. However, its true lethality lies in the delayed reaction - upon exposure to direct sunlight, the radium explodes with tremendous force, reducing flesh to ash and shattering armor with ease. This delayed detonation makes daylight combat particularly gruesome, as wounds inflicted in the shade may detonate seconds later when exposed to the open sky. In the perpetual twilight of Barsoom’s nights, the bullets act as traditional kinetic projectiles, still deadly, but without their explosive potential. However, the damaged vessel may have a second surprise when dawn arrives and the fragments of radium ignite in the suns rays.  
+  
+Barsoomian warriors wield radium rifles with deadly efficiency, employing them both in ground battles and aerial skirmishes aboard Barsoomian fliers. The rifles are equipped with long-range scopes for precise sniping, and their lightweight frames allow even the swiftest [[Red Martian]] warriors or Green [[Thark]] giants to wield them effortlessly. Ammunition is stored in bandoliers of radium cartridges, which must be handled with care, as any accidental exposure to sunlight could trigger premature explosions. Some fliers mount radium cannons, using the same deadly ammunition on a much larger scale, capable of shredding enemy hulls or annihilating entire formations of troops. Despite their power, radium rifles are not without risks; unpredictable sunlight reflections or ricochets have been known to turn the weapon’s lethality back upon its wielder, making them both revered and feared in Barsoomian warfare.
