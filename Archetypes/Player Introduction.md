@@ -12,7 +12,7 @@ It is best if every player agrees to the same Campaign.
 
 [[Disruptors]] - a Disruptor Campaign may involve Travel, Violence, the search for (and subsequent use of) Reality-Ending Weapons for the supposed Greater Good (as they perceive it). Disruptors abhor the [[Darkness]] of [[Reality Meme (Onton)|Ontons]], seeking to reduce the spread of Ontons between realities. In this way, they seek to foster greater diversity (if not outright chaos).
 
-[[Hunters]] - a Hunter Campaign places the players in the enviable position as Multiversal Seekers, perhaps hunting criminals or even Disruptors and sometimes beholden to a higher power (like the [[Chaos Engineers]], the [[The Catabast Institute|Catabasts]], the [[Tenet of Indeterminate Philosophy|TIPs]] or the [[Fallen Lords]]. Their morality may clash with their employer.
+[[Hunters]] - a Hunter Campaign places the players in the enviable position as Multiversal Seekers, perhaps hunting criminals or even Disruptors and sometimes beholden to a higher power (like the [[The Catabast Institute|Catabasts]],or the [[Fallen Lords]]. Their morality may clash with their employer.
 
 [[Refugees]] - a Refugee Campaign may begin with the escape from a dying Reality to another universe. The cause of this catastrophe could be natural (some things just end), or deeply unnatural (the movement of the Extant Maw or machinations of Disruptors or other forces). The players will be adrift in the Multiverse, [[Unanchored]] and seeking safe harbour from the threat.
 
@@ -41,4 +41,4 @@ Martian: [[Red Martian]], [[Thark]], [[Thern]]
 
 # Players are then free to choose Careers (or Types and Descriptors)
 
-[[YZE Character Generation]] or [[Cypher System Character Generation]]
+[[YZE Character Generation]] or [[Arcane Manifold Engine]]
