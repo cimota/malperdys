@@ -24,17 +24,15 @@ Gorgons are most commonly [[Refugees]] from [[Chars]]. Their petrification abili
 # In Play
 The Gorgon’s gaze forces a petrification test. On failure, the victim becomes brittle carbon, collapsing into shards if struck or moved roughly. 
 
-> [!Mechanics]- YZE and Cypher Mechanics
-> In **YZE** this is a Stamina test/Death Save.
+> [!Mechanics]- YZE and AME Mechanics
+> This is a Stamina test/Death Save.
 > 
-> In **Cypher**, this is a test vs a Rank 7 Effect (TN: 21). Armour has no effect but magical shields or other defences may Ease it. Even wearing Mirrorshades may Ease the effect. 
+
 
 Partial failures might leave limbs or features carbonized — permanent, fragile, and cold to the touch.
 
-> [!Mechanics]- YZE and Cypher Mechanics
-> In **YZE** a failure results in a 3 point injury, which may trigger a Critical
-> 
-> In **Cypher**, failure results in descending 2 steps on the damage track. 
+> [!Mechanics]- YZE and AME Mechanics
+> A failure results in a 3 point injury, which may trigger a Critical
 
 Defeating a Gorgon requires disrupting its concentration (loud noise, volitive shock), not just brute force. They can be slain by sufficient violence but may rise, phoenix-like, from their own ashes. The most effective method is to distract them while moving a mirror into place.
 
