@@ -98,9 +98,5 @@ A failure means the glyph does not function. A success with a complication (roll
 ## Talent Synergies
 
 - "Glyphwright" Talent: You may reroll 1 die during glyph crafting rolls.
->[!tip]- Cypher Mechanics
->Action may be re-rolled at no XP cost]
 - "Pivot Thief" Talent: When handling unknown glyphs, you roll +1 Step
->[!tip]- Cypher Mechanics
->Action is Eased] to identify or activate them.
 - "Void-Touched" Talent: You can forge glyphs with partial matrices or fragments only. However, complications are rolled twice and you must choose one.
