@@ -11,13 +11,11 @@ A brass-and-copper lattice bristling with coils, humming tubes, and violet-glass
 # Effect (Game Terms):
 **Activation**: Failure produces noise, heat, and immediate unwanted attention.
 > [!Note]- Rules
-> YZE: Roll for INT/Tech (or equivalent. 
-> Cypher: Roll for INT. May be Eased with appropriate occult tech skills.
+>  Roll for INT/Tech (or equivalent. 
 
 **Perception**: While active, the user sees entities and structures normally hidden.
 > [!Note]- Rules
-> YZE: Gain +2 dice on Investigation involving anomalies, but also suffer +1 Despair/Stress each scene.
-> Cypher: Every Perception-type roll is Eased but every Success costs 1 from the INT Pool
+>  Gain +2 dice on Investigation involving anomalies, but also suffer +1 Despair/Stress each scene.
 
 **Exposure**: Anyone within 10 meters is likewise “attuned” and can be perceived by nearby extradimensional creatures. GM rolls secretly each scene to determine if contact occurs.
 **Duration**: Each activation lasts 1d6 minutes before overheating. Cooling requires 1 hour.
