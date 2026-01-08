@@ -4,7 +4,7 @@ creation date: 2025-03-03 11:34
 modification date: Monday 3rd March 2025 11:34:46
 tags: []
 ---
-# [[Tenet of Indeterminate Philosophy]]
+# [[Trans World Agency]]
 Civil service investigators, archivists, occultists and spies maintaining the *status quo* across the multiverse.
 # [[Tindalean Lords]]
 A cross between Gallifrey and Amber.
