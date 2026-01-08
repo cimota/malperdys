@@ -31,10 +31,11 @@ Reading it too intently may cause the House itself to notice the reader, often m
 
 The Atlas is never in the same place twice. It drifts, appearing in dressing rooms, libraries, or even under a guest’s pillow. Some believe the House offers it when it wants residents to leave.
 # In Play
-> [!Rules]- Using the Atlas YZE
+> [!Rules]- Using the Atlas (YZE)
 > Using the Atlas acts as a Pushed Roll in YZE when searching for a specific type of room with a Bane indicating the House has taken a dislike to the PC for the moment and may present a dangerous door. The House delivers the reader somewhere perilous or uncanny.
 
->[!Rules]- Using the Atlas Cypher
->Using the Atlas acts with Cypher is an INTELLECT check when searching for a specific type of room with a Failure indicating the House has taken a dislike to the PC for the moment and may present a dangerous door. The House delivers the reader somewhere perilous or uncanny.
+> [!Rules]- Using the Atlas (AME)
+> Using the Atlas as normal, but the difficulty number is raised 1 point to 6.
+
 
 Possessing the Atlas makes a character more likely to be adopted as a, "Resident," but also more likely to be stalked by [[Ontonic Objects|Ontonic]] ghosts of the [[Malperdys]] lineage.
